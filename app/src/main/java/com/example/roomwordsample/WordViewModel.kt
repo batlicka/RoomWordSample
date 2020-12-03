@@ -4,6 +4,6 @@ import WordRepository
 import androidx.lifecycle.ViewModel
 
 
-class WordViewModel(private val repository: WordRepository) : ViewModel() {
+class WordViewModel() : ViewModel() {
 
 }
