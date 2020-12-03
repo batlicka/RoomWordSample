@@ -1,3 +1,5 @@
+package com.example.roomwordsample
+
 import androidx.annotation.WorkerThread
 import com.example.roomwordsample.Word
 import com.example.roomwordsample.WordDao
